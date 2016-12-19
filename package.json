@@ -14,7 +14,7 @@
     "connect-pause": "^0.1.0",
     "cors": "^2.3.0",
     "errorhandler": "^1.2.0",
-    "express": "^4.9.5",
+    "express": "^3.0.0",
     "lodash": "^4.11.2",
     "lowdb": "^0.14.0",
     "method-override": "^2.1.2",
